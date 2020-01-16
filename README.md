@@ -1,2 +1,2 @@
-# practika_python
-it is test project
+# practika_python  it is test project
+
